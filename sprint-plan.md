@@ -1,6 +1,6 @@
- Sprint Plan – Sprint 1
+ **Sprint Plan – Sprint 1**
 
- 1. Product Backlog
+ **1. Product Backlog**
 
 - Create a new task
 - Assign task to a user
@@ -10,13 +10,13 @@
 
 
 
- 2. Sprint Goal
+ **2. Sprint Goal**
 
 The goal of this sprint is to build a basic cloud-based task management application that allows users to create, assign, and track tasks effectively.
 
 
 
-3. Definition of Done (DoD)
+**3. Definition of Done (DoD)**
 
 - A new feature of adding new task in the application was created successfuly and the Codes were pushed to GitHub repository
 - Feature works as expected
