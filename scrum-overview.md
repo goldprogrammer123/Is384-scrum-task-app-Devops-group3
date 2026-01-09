@@ -1,10 +1,7 @@
-<<<<<<< HEAD
 
-=======
->>>>>>> 26901e994351cd9da728f59b90864fb6b7b2af72
-Scrum Overview – Cloud-Based Task Management App
+**Scrum Overview – Cloud-Based Task Management App**
 
- 1. Scrum Roles
+ **1. Scrum Roles**
 
 - **Product Owner:** Minael Kilonzo Nelson (32005/T.2023)  
   Responsible for defining and prioritizing all tasks in the product backlog.
@@ -27,7 +24,7 @@ Scrum Overview – Cloud-Based Task Management App
 - **Developer 5:** Abdalah Abdalah Athumani (31601/T.2023)  
   Responsible for implementing the **Notifications** feature.
 
-2. Scrum Events
+**2. Scrum Events**
 
 Sprint Planning
 - The team meets to define the sprint goal.
@@ -55,7 +52,7 @@ Sprint Planning
 - Action points are documented for the next sprint.
 
 
-3. Scrum Artifacts
+**3. Scrum Artifacts**
 
 Product Backlog
 - List of all features and requirements for the app.
