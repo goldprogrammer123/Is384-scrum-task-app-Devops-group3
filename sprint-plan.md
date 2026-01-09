@@ -27,3 +27,4 @@ RECOMMENDATION
 -I have seen all the plans and are good you can procced with the implementation 
 -Prioritize key features first
 -Plan for quality and future growth
+-Encourage continuous improvement
