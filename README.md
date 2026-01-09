@@ -11,7 +11,7 @@
 | Nicolas Severine Mshana       | 32047/T.2023        | Developer 2    |
 | Nathanaeli Nesphory Thabiti   | 31407/T.2023        | Developer 3    |
 | Mustapha Bakari Rashidi       | 30609/T.2023        | Developer 4    |
-| Abdalah Abdalah Athumani      | 31601/T.2023        | Developer 5    |
+| Abdallah Abdallah Athumani    | 31601/T.2023        | Developer 5    |
 
 
 
